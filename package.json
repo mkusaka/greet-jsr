@@ -6,6 +6,7 @@
   "author": "mkusaka <hinoshita1992@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@mkusaka/greet": "npm:@jsr/mkusaka__greet@^0.3.0"
+    "@mkusaka/greet": "npm:@jsr/mkusaka__greet@^0.3.0",
+    "chalk": "5.1.0"
   }
 }
