@@ -1,8 +1,8 @@
 {
   "name": "@mkusaka/greet",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "index.js",
-  "repository": "https://github.com/mkusaka/use-jsr-from-yarn-sample.git",
+  "repository": "https://github.com/mkusaka/greet-jsr.git",
   "author": "mkusaka <hinoshita1992@gmail.com>",
   "license": "MIT"
 }

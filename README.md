@@ -1,1 +1,1 @@
-# use-jsr-from-yarn-sample
+# greet-jsr
