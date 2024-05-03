@@ -13,7 +13,7 @@
  */
 
 export * from "./greet.ts";
-export * from "npm:chalk@^5.3.0"
+export * from "npm:chalk@5.0.1"
 
 // greet.ts
 /**
