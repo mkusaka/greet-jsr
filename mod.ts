@@ -13,7 +13,7 @@
  */
 
 export * from "./greet.ts";
-export * from "jsr:@std/fmt@0.224.0/colors"
+export * from "jsr:@std/fmt@^0.224.0/colors"
 
 // greet.ts
 /**
