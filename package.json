@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/mkusaka/greet-jsr.git",
   "author": "mkusaka <hinoshita1992@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@mkusaka/greet": "npm:@jsr/mkusaka__greet@^0.3.0"
+  }
 }
