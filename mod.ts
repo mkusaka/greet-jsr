@@ -4,9 +4,9 @@
  *
  * @example
  * ```ts
- * import { greet } from "@luca/greet";
+ * import { greet } from "@mkusaka/greet";
  *
- * greet("Luca");
+ * greet("Mkusaka");
  * ```
  *
  * @module
