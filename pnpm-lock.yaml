@@ -1,0 +1,31 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@mkusaka/greet':
+        specifier: npm:@jsr/mkusaka__greet@^0.3.0
+        version: '@jsr/mkusaka__greet@0.3.0'
+      chalk:
+        specifier: 5.1.0
+        version: 5.1.0
+
+packages:
+
+  '@jsr/mkusaka__greet@0.3.0':
+    resolution: {integrity: sha512-zxj8HJ4rKxPmLjs3yhEIcpkmiIoh/k0OnnQqGDMCZsNsSk6ypBKW9s0hwsYZUQn1KcByFWzh4UywRP61bfBdFg==, tarball: https://npm.jsr.io/~/11/@jsr/mkusaka__greet/0.3.0.tgz}
+
+  chalk@5.1.0:
+    resolution: {integrity: sha512-56zD4khRTBoIyzUYAFgDDaPhUMN/fC/rySe6aZGqbj/VWiU2eI3l6ZLOtYGFZAV5v02mwPjtpzlrOveJiz5eZQ==}
+    engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
+
+snapshots:
+
+  '@jsr/mkusaka__greet@0.3.0': {}
+
+  chalk@5.1.0: {}
